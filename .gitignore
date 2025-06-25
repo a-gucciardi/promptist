@@ -1,0 +1,3 @@
+koboldcpp
+models/*.gguf
+kobold_llm/koboldcpp_tools

@@ -1,0 +1,4 @@
+You're designing a clinical decision support system (CDSS) to assist radiologists and neonatologists in interpreting brain MRIs of high-risk newborns. The system must integrate imaging data, clinical metadata, and machine learning outputs to help identify early signs of neurological complications.
+
+Question:
+What system architecture and consistency model would you adopt to ensure accurate, reliable, and timely decision support in a distributed hospital environment (e.g., between NICUs, radiology departments, and central data services)?

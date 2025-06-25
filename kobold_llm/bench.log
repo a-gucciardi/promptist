@@ -1,0 +1,40 @@
+# airoboros-mistral2.2-7b.Q4_K_S
+Processing Speed: 424.66 tokens/sec
+Generation Speed: 106.57 tokens/sec
+Total Tokens per Second: 98.52 tokens/sec
+# DeepSeek-R1-0528-Qwen3-8B-Q4_K_S.gguf
+Processing Speed: 1105.26 tokens/sec
+Generation Speed: 82.43 tokens/sec
+Total Tokens per Second: 589.11 tokens/sec
+# DeepSeek-R1-0528-Qwen3-8B-UD-IQ1_S.gguf
+Processing Speed: 210.00 tokens/sec
+Generation Speed: 88.60 tokens/sec
+Total Tokens per Second: 111.93 tokens/sec
+# LLama-3.1-Nemotron-70B-Instruct-HF-IQ4_XS.gguf
+Processing Speed: 589.53 tokens/sec
+Generation Speed: 15.46 tokens/sec
+Total Tokens per Second: 633.74 tokens/sec
+# Meta-Llama-3.1-8B-Instruct-IQ4_XS.gguf
+Processing Speed: 1074.07 tokens/sec
+Generation Speed: 90.70 tokens/sec
+Total Tokens per Second: 581.07 tokens/sec
+# Meta-Llama-3.1-70B-Instruct-IQ4_XS.gguf
+Processing Speed: 315.22 tokens/sec
+Generation Speed: 15.61 tokens/sec
+Total Tokens per Second: 170.53 tokens/sec
+# mistralai_Mistral-Small-3.2-24B-Instruct-2506-IQ4_XS.gguf
+Processing Speed: 1157.89 tokens/sec
+Generation Speed: 40.86 tokens/sec
+Total Tokens per Second: 618.32 tokens/sec
+# OLMo-2-1124-7B-Instruct-Q4_K_S.gguf
+Processing Speed: 2000.00 tokens/sec
+Generation Speed: 91.14 tokens/sec
+Total Tokens per Second: 1096.00 tokens/sec
+# Qwen2.5-Coder-32B-Instruct-Q4_K_S.gguf
+Processing Speed: 1333.33 tokens/sec
+Generation Speed: 29.06 tokens/sec
+Total Tokens per Second: 720.00 tokens/sec
+# Qwen2.5.1-Coder-7B-Instruct-Q4_K_S.gguf
+Processing Speed: 2000.00 tokens/sec
+Generation Speed: 97.17 tokens/sec
+Total Tokens per Second: 544.00 tokens/sec
