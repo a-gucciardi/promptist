@@ -13,8 +13,8 @@ A minimal setup for quick testing and evaluation of open-source Large Language M
 
 ### Coming Soon
 
-* 🔍 Multimodal capabilities speed and bench tests.
-* 📊 Ollama benchmark suite.
+* Multimodal capabilities speed and bench tests.
+* Ollama benchmarks.
 
 ---
 
@@ -34,12 +34,12 @@ kobold_llm/
 
 2. **Download Models**
 
-   * Filtered from Hugging Face in GGUF format ( most links provided in [model_links](/models/links.txt))
+   * Filtered from Hugging Face in GGUF format (most links are provided in [model_links](/models/links.txt)).
    ```bash
    cd models
    wget https://huggingface.co/unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF/resolve/main/DeepSeek-R1-0528-Qwen3-8B-Q4_K_S.gguf
    ```
-   * Manually converted from other formats. (requires [kb tools](https://kcpptools.concedo.workers.dev/))
+   * Manually converted from other formats (requires [kb tools](https://kcpptools.concedo.workers.dev/)). 
 
 3. **Play Around with APIs**
    Check out these Python scripts for interaction and testing:
