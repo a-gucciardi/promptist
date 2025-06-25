@@ -3,6 +3,8 @@ A minimal setup for quick testing and evaluation of open-source Large Language M
 
 > **Note:** This setup was originally created for internal use with a Discord bot, currently powered by a local Ollama instance.
 
+![image](/kobold_llm/bench_plots/genspeed.png)
+
 ---
 ## Status
 ### Current Features
